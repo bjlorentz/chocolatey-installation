@@ -8,10 +8,13 @@ choco upgrade firefox ublockorigin-firefox googlechrome thunderbird ublockorigin
 choco upgrade keepass keepass-keepasshttp
 choco upgrade keypirinha --ia "/D\=C:\Program Files\keypirinha"
 choco upgrade sharex
-choco upgrade vscodium typora pandoc
+choco upgrade vscodium typora pandoc foxitreader
 choco upgrade mobaxterm winscp cmder
 choco upgrade discord
 choco upgrade cloudstation
 choco upgrade 7zip
 choco upgrade virtualbox virtualbox-guest-additions-guest.install
 choco upgrade etcher
+choco upgrade vlc aimp itunes 
+choco upgrade handbrake
+choco upgrade libreoffice-fresh
